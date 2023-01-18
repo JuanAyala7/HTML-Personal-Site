@@ -6,5 +6,3 @@
 <li>How to create and use a GitHub account.</li>
 <li>How to create a repository.</li>
 <li>How to properly publish a website via GitHub by using GitHub Pages.</li>
-
-### Highlights of this project:
